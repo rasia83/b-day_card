@@ -1,7 +1,7 @@
 
 body {
   background: #F3A2EB;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Dancing Script', cursive;
 }
 
 .card-space {
@@ -9,8 +9,8 @@ body {
   margin: 2em auto;
 	background: #FCFBED;
 	border-radius: 5px;
-	height: 85vh;
-	width: 85vw;
+	height: 40em;
+	width: 80%;
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.16), 0 4px 8px rgba(0, 0, 0, 0.23);
 	text-align: center;
 	display: flex;
@@ -22,12 +22,13 @@ body {
 
 .titulo-principal {
   text-align: center;
-  font-size: 2em;
+  font-size: 4em;
   margin: 0 0 1em;
 }
 
 .card-space p {
-  font-size: 16px;
+  font-size: 2em;
+  margin: 0 0 1em;
 }
 
 
@@ -39,10 +40,11 @@ body {
 .YouTube p {
   margin: 1em auto;
   text-align: center;
-  font-size: 26px;
+  font-size: 2em;
 }
 
 .YouTube iframe {
+	border-radius: 5px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.16), 0 4px 8px rgba(0, 0, 0, 0.23);
 }
 
